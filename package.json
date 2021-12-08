@@ -15,5 +15,9 @@
     "url": "https://github.com/MaltLich/webscraper/issues"
   },
   "homepage": "https://github.com/MaltLich/webscraper#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1"
+  }
 }
